@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working as a Research Scientist at IBM Research, Brazil
 - 🔭 I’m currently persuing a PhD degree in Informatics from the Federal University of the State of Rio de Janeiro (UNIRIO)
-- 📫 How to reach me: contact@marcelomachado.org
+- 📫 How to reach me: marcelo.oc.machado@gmail.com
